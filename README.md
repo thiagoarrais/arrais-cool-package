@@ -1,5 +1,7 @@
 # is-null-or-empty
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/thiagoarrais/arrais-cool-package.svg)](https://greenkeeper.io/)
+
 A Node.js package that checks whether a given string is null or empty. A basic package for an npm publish tutorial.
 
 ## Usage
