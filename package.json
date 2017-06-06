@@ -1,0 +1,23 @@
+{
+  "name": "arrais-cool-package",
+  "version": "1.0.0",
+  "description": "Checks whether a given string is null or empty (I'm learning)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiagoarrais/arrais-cool-package.git"
+  },
+  "keywords": [
+    "null",
+    "empty"
+  ],
+  "author": "Thiago Arrais <thiago.arrais@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thiagoarrais/arrais-cool-package/issues"
+  },
+  "homepage": "https://github.com/thiagoarrais/arrais-cool-package#readme"
+}
