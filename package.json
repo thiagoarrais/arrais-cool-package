@@ -1,6 +1,6 @@
 {
   "name": "arrais-cool-package",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Checks whether a given string is null or empty (I'm learning)",
   "main": "index.js",
   "scripts": {
